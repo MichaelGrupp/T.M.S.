@@ -110,7 +110,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Actors" Type="Folder">
+			<Item Name="Conveyor Belt.vi" Type="VI" URL="../Conveyor Belt.vi"/>
 			<Item Name="Dispenser Low Level.vi" Type="VI" URL="../Dispenser Low Level.vi"/>
+			<Item Name="Heat.vi" Type="VI" URL="../Heat.vi"/>
 			<Item Name="motor_DC_small.vi" Type="VI" URL="../motor_DC_small.vi"/>
 			<Item Name="test_actor.vi" Type="VI" URL="../test_actor.vi"/>
 		</Item>
@@ -130,6 +132,7 @@ AddOutputFilter chunkFilter
 			<Item Name="test_sensor.vi" Type="VI" URL="../test_sensor.vi"/>
 		</Item>
 		<Item Name="ArduinoInterface.vi" Type="VI" URL="../ArduinoInterface.vi"/>
+		<Item Name="Conveyor Belt Functions.ctl" Type="VI" URL="../Controls/Conveyor Belt Functions.ctl"/>
 		<Item Name="Dispense.vi" Type="VI" URL="../Controls/Dispense.vi"/>
 		<Item Name="Dispenser Functions.ctl" Type="VI" URL="../Controls/Dispenser Functions.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
