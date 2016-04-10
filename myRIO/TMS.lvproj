@@ -133,7 +133,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="ArduinoInterface.vi" Type="VI" URL="../ArduinoInterface.vi"/>
 		<Item Name="Conveyor Belt Functions.ctl" Type="VI" URL="../Controls/Conveyor Belt Functions.ctl"/>
-		<Item Name="Dispense.vi" Type="VI" URL="../Controls/Dispense.vi"/>
+		<Item Name="Dispense.vi" Type="VI" URL="../Dispense.vi"/>
 		<Item Name="Dispenser Functions.ctl" Type="VI" URL="../Controls/Dispenser Functions.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Spätzle_Control_myRIO.vi" Type="VI" URL="../Spätzle_Control_myRIO.vi"/>
