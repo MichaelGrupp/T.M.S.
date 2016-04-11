@@ -137,6 +137,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Dispense.vi" Type="VI" URL="../Dispense.vi"/>
 		<Item Name="Dispenser Functions.ctl" Type="VI" URL="../Controls/Dispenser Functions.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Servo.vi" Type="VI" URL="../Servo.vi"/>
 		<Item Name="Spätzle_Control_myRIO.vi" Type="VI" URL="../Spätzle_Control_myRIO.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
